@@ -13,10 +13,10 @@ function Projects() {
 							hover:shadow-xl hover:scale-[102%] w-full">
 				<div className="w-80 rounded">
 					<a href=
-"https://signup-login-app-blond.vercel.app/"
+"https://www.geeksforgeeks.org/progress-tracker-using-react-and-local-storage/"
 						className="w-full h-full">
 						<img src=
-							"../../assets/registerPage"
+"https://media.geeksforgeeks.org/wp-content/uploads/20230927120905/gfg.png"
 							alt="Project 1"
 							className="w-full h-full 
 										bg-cover rounded"/>
@@ -26,7 +26,7 @@ function Projects() {
 					<h2 className="font-bold text-3xl text-center">
 						<a className="hover:underline"
 							href=
-"https://signup-login-app-blond.vercel.app/">
+"https://www.geeksforgeeks.org/progress-tracker-using-react-and-local-storage/">
 							DSA Progress Tracker
 						</a>
 					</h2>
